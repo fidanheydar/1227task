@@ -233,11 +233,11 @@ namespace ConsoleApp6
                 }
             }
             return newArr;
+    #endregion
         }
        
 
         }
-    #endregion
 
     
   
